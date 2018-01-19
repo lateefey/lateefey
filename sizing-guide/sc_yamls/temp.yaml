@@ -1,0 +1,6 @@
+headers: Label size,UK/India,EU,USA,Foot length (in cms),Foot length (in inches)
+values:
+  row_1: 7,7,40.5,8,25.4,10
+  row_2: 8,8,42,9,26,11
+  row_3: 9,9,43,10,26.7,11
+  row_4: 10,10,44.5,11,28.2,12
